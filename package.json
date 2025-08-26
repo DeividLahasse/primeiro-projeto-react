@@ -1,6 +1,7 @@
 {
   "name": "primeiro-projeto-react",
   "private": true,
+  "homepage": "https://deividlahasse.github.io/primeiro-projeto-react/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
